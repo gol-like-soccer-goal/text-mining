@@ -1,11 +1,11 @@
 # text-mining
 
-# set up
+## set up
 set working directory on line 26 by replacing XX
 import dataset on line 29 and specify data file by replacing XX
 specify text column on line 32 by replacing XX
 
-# contents
+## contents
 Contains algorithms for: 
 Word Frequencies
 N-grams
